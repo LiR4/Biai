@@ -1,6 +1,6 @@
-package com.api.repository;
+package com.api.biai.repository;
 
-import com.api.model.BiFile;
+import com.api.biai.model.BiFile;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

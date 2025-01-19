@@ -1,4 +1,4 @@
-package com.api.model;
+package com.api.biai.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

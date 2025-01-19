@@ -1,4 +1,4 @@
-package com.api.model;
+package com.api.biai.model;
 
 
 import lombok.AllArgsConstructor;
@@ -12,5 +12,6 @@ public class BiFileResponse {
     private Long id;
 
     private String pathFile;
+    
     private String fileLocalDateTime;
 }
